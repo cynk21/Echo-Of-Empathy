@@ -26,10 +26,3 @@ These technologies collectively contribute to the development of a comprehensive
 Quellen
 [Github Project](https://github.com/Scarelette/CulturePark)
 
-![Favicon](https://www.google.com/s2/favicons?domain=https://arxiv.org&sz=32)
-
-![Favicon](https://www.google.com/s2/favicons?domain=https://library.fiveable.me&sz=32)
-
-![Favicon](https://www.google.com/s2/favicons?domain=https://mitsloan.mit.edu&sz=32)
-
-![Favicon](https://www.google.com/s2/favicons?domain=https://www.mdpi.com&sz=32)
