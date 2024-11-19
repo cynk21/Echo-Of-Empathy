@@ -24,6 +24,7 @@
 These technologies collectively contribute to the development of a comprehensive "universal translator" that not only translates language but also interprets emotional and cultural contexts, facilitating more nuanced and effective cross-cultural communication.
 
 Quellen
+[Github Project](https://github.com/Scarelette/CulturePark)
 
 ![Favicon](https://www.google.com/s2/favicons?domain=https://arxiv.org&sz=32)
 
