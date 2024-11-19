@@ -19,10 +19,11 @@
 5.  ##CulturePark##: An LLM-powered multi-agent communication framework for cultural data collection, CulturePark simulates cross-cultural human communication with LLM-based agents playing roles in different cultures. It generates high-quality cross-cultural dialogues encapsulating human beliefs, norms, and customs, aiming to address cultural bias and advance the democratization of AI.
     
     [arXiv](https://arxiv.org/abs/2405.15145)
+    [Github Project](https://github.com/Scarelette/CulturePark)
+
     
 
 These technologies collectively contribute to the development of a comprehensive "universal translator" that not only translates language but also interprets emotional and cultural contexts, facilitating more nuanced and effective cross-cultural communication.
 
-Quellen
-[Github Project](https://github.com/Scarelette/CulturePark)
+ 
 
