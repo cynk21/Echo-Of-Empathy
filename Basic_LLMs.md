@@ -1,3 +1,7 @@
+##a good start would be Teuken-7B:
+https://www.heise.de/news/Forschungsprojekt-veroeffentlicht-KI-Sprachmodell-aus-Europa-10178030.html
+
+
 #To establish a solid foundation for your project on AI-driven cross-cultural emotional understanding, consider the following research papers and resources:
 
 ##"Challenges and Strategies in Cross-Cultural NLP"## by Dirk Hovy and Diyi Yang (2022): This paper discusses the complexities of natural language processing across different cultures and languages, offering strategies to address these challenges.
