@@ -23,12 +23,5 @@
 
 These initiatives highlight the growing interest in integrating AI with emotional intelligence and cultural sensitivity, aiming to improve human-AI interactions and foster better understanding across diverse populations.
 
-Quellen
-
-![Favicon](https://www.google.com/s2/favicons?domain=https://apnews.com&sz=32)
-
-![Favicon](https://www.google.com/s2/favicons?domain=https://www.ft.com&sz=32)
-
-![Favicon](https://www.google.com/s2/favicons?domain=https://nymag.com&sz=32)
-
-![Favicon](https://www.google.com/s2/favicons?domain=https://www.wired.com&sz=32)
+also interesting:
+https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice
